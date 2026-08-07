@@ -103,7 +103,7 @@ export default function Home() {
             
             {/* Main Image */}
             <div className="absolute inset-0 rounded-[3rem] overflow-hidden shadow-2xl -rotate-2">
-              <img src="/retro_car.png" className="w-full h-full object-cover" alt="Retro Car" />
+              <img src="/nail1.jpg" className="w-full h-full object-cover" alt="Nails Hero" />
             </div>
           </div>
         </div>
