@@ -11,3 +11,7 @@
   --font-serif: 'Playfair Display', serif;
   --font-handwriting: 'Caveat', cursive;
 }
+
+html {
+  scroll-behavior: smooth;
+}
