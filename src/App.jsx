@@ -314,6 +314,9 @@ export default function App() {
           </div>
 
         </div>
+        <div className="text-center mt-12 text-[10px] text-primary/40 uppercase tracking-widest font-bold">
+          Создано на платформе Gorgona One AI
+        </div>
       </footer>
     </div>
   );
