@@ -142,7 +142,7 @@ export default function Home() {
         {/* Left Col (Girl with phone) */}
         <div className="lg:col-span-5 relative flex items-center justify-center">
           <div className="w-[85%] aspect-[3/4] rounded-[2rem] overflow-hidden relative shadow-lg">
-            <img src="/about_us_main.jpg" className="w-full h-full object-cover" alt="Nail detail" />
+            <img src="/about_1.jpg" className="w-full h-full object-cover" alt="Nail detail" />
             <div className="absolute inset-0 flex items-center justify-center bg-black/10">
                {/* Play Button visual */}
                <div className="w-16 h-16 bg-white/30 backdrop-blur-md rounded-full flex items-center justify-center text-white cursor-pointer hover:scale-110 transition-transform">
@@ -173,7 +173,7 @@ export default function Home() {
 
           <div className="grid grid-cols-2 gap-4 mt-auto">
             <div className="aspect-[4/3] rounded-[1.5rem] overflow-hidden">
-              <img src="/about_us_secondary.jpg" className="w-full h-full object-cover" alt="Nails detail" />
+              <img src="/about_2.jpg" className="w-full h-full object-cover" alt="Nails detail" />
             </div>
             <div className="aspect-[4/3] rounded-[1.5rem] overflow-hidden hidden md:block">
               <img src="/interior_1.png" className="w-full h-full object-cover" alt="Interior" />

@@ -50,8 +50,8 @@ export default function Masters() {
           {/* Master 1 */}
           <div className="bg-white rounded-[2rem] p-8 flex flex-col md:flex-row gap-8 items-center md:items-start shadow-sm border border-primary/5 hover:shadow-md transition-shadow">
             <div className="w-32 h-32 rounded-full overflow-hidden bg-primary/10 shrink-0">
-               {/* placeholder image */}
-               <img src="/about_1.jpg" alt="Sofia" className="w-full h-full object-cover" />
+               {/* Sofia image */}
+               <img src="/sofia.jpg" alt="Sofia" className="w-full h-full object-cover" />
             </div>
             <div className="flex-1 text-center md:text-left">
               <h3 className="text-2xl font-serif font-bold text-primary mb-2">Sofia</h3>
@@ -66,7 +66,8 @@ export default function Masters() {
           {/* Master 2 */}
           <div className="bg-white rounded-[2rem] p-8 flex flex-col md:flex-row gap-8 items-center md:items-start shadow-sm border border-primary/5 hover:shadow-md transition-shadow">
             <div className="w-32 h-32 rounded-full overflow-hidden bg-primary/10 shrink-0">
-               <div className="w-full h-full flex items-center justify-center text-primary/30 font-bold text-3xl">K</div>
+               {/* Karina image */}
+               <img src="/karina.jpg" alt="Karina" className="w-full h-full object-cover" />
             </div>
             <div className="flex-1 text-center md:text-left">
               <h3 className="text-2xl font-serif font-bold text-primary mb-2">Karina</h3>
