@@ -103,7 +103,7 @@ export default function Home() {
             
             {/* Main Image */}
             <div className="absolute inset-0 rounded-[3rem] overflow-hidden shadow-2xl -rotate-2">
-              <img src="/nail1.jpg" className="w-full h-full object-cover" alt="Nails Hero" />
+              <img src="/hero_girl.png" className="w-full h-full object-cover object-[65%_20%] md:object-center" alt="Model" />
             </div>
           </div>
         </div>
