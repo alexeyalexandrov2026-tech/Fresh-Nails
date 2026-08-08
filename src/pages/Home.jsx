@@ -173,7 +173,7 @@ export default function Home() {
 
           <div className="grid grid-cols-2 gap-4 mt-auto">
             <div className="aspect-[4/3] rounded-[1.5rem] overflow-hidden">
-              <img src="/about_1.jpg" className="w-full h-full object-cover" alt="Nails detail" />
+              <img src="/about_1.jpg" className="w-full h-full object-cover object-top" alt="Nails detail" />
             </div>
             <div className="aspect-[4/3] rounded-[1.5rem] overflow-hidden hidden md:block">
               <img src="/interior_1.png" className="w-full h-full object-cover" alt="Interior" />
