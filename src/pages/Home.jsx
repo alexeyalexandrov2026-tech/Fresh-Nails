@@ -151,7 +151,7 @@ export default function Home() {
             </div>
           </div>
           
-          <div className="absolute top-12 left-10 font-handwriting text-5xl text-white drop-shadow-[0_0_15px_rgba(255,255,255,0.9)] leading-tight -rotate-3">
+          <div className="absolute bottom-10 left-6 md:bottom-12 md:left-10 font-handwriting text-3xl md:text-5xl text-white drop-shadow-[0_0_15px_rgba(255,255,255,0.9)] leading-tight -rotate-3">
              Good<br/>Vibes<br/>Only
           </div>
         </div>
