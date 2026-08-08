@@ -51,7 +51,7 @@ export default function Masters() {
           <div className="bg-white rounded-[2rem] p-8 flex flex-col md:flex-row gap-8 items-center md:items-start shadow-sm border border-primary/5 hover:shadow-md transition-shadow">
             <div className="w-32 h-32 rounded-full overflow-hidden bg-primary/10 shrink-0">
                {/* Sofia image */}
-               <img src="/sofia.jpg" alt="Sofia" className="w-full h-full object-cover" />
+               <img src="/karina.jpg" alt="Sofia" className="w-full h-full object-cover object-top" />
             </div>
             <div className="flex-1 text-center md:text-left">
               <h3 className="text-2xl font-serif font-bold text-primary mb-2">Sofia</h3>
@@ -67,7 +67,7 @@ export default function Masters() {
           <div className="bg-white rounded-[2rem] p-8 flex flex-col md:flex-row gap-8 items-center md:items-start shadow-sm border border-primary/5 hover:shadow-md transition-shadow">
             <div className="w-32 h-32 rounded-full overflow-hidden bg-primary/10 shrink-0">
                {/* Karina image */}
-               <img src="/karina.jpg" alt="Karina" className="w-full h-full object-cover" />
+               <img src="/sofia.jpg" alt="Karina" className="w-full h-full object-cover object-top" />
             </div>
             <div className="flex-1 text-center md:text-left">
               <h3 className="text-2xl font-serif font-bold text-primary mb-2">Karina</h3>
